@@ -1,0 +1,1 @@
+browser-sync -watch *.html,*.css,*.js,*.png,*.jpg
