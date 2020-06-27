@@ -1,2 +1,2 @@
-# Jinx App
+# Saylus App
 WIP
